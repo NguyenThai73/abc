@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985770940523",
+    "project_id": "staras-89a8a",
+    "storage_bucket": "staras-89a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985770940523:android:d8bf64b43f5c3995fdf92e",
+        "android_client_info": {
+          "package_name": "com.example.staras_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdASi_XL7lk7MoTlGDBvLuJNSg-y6-OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985770940523:android:30f9988d04071546fdf92e",
+        "android_client_info": {
+          "package_name": "com.example.staras_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdASi_XL7lk7MoTlGDBvLuJNSg-y6-OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
